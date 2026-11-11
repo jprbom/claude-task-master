@@ -81,12 +81,12 @@
 		"ollama-ai-provider": "^1.2.0",
 		"openai": "^4.89.0",
 		"ora": "^8.2.0",
-		"uuid": "^11.1.0",
+		"uuid": "^14.0.3",
 		"zod": "^3.23.8",
 		"zod-to-json-schema": "^3.24.5"
 	},
 	"optionalDependencies": {
-		"@anthropic-ai/claude-code": "^1.0.25",
+		"@anthropic-ai/claude-code": "^2.1.251",
 		"ai-sdk-provider-gemini-cli": "^0.0.4",
 		"@biomejs/cli-linux-x64": "^1.9.4"
 	},
